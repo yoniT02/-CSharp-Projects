@@ -1,0 +1,17 @@
+C:\Users\yonas\source\repos\lab2\bin\Debug\lab2.exe.config
+C:\Users\yonas\source\repos\lab2\bin\Debug\lab2.exe
+C:\Users\yonas\source\repos\lab2\bin\Debug\lab2.pdb
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.csproj.AssemblyReference.cache
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.csproj.SuggestedBindingRedirects.cache
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.Form1.resources
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.Properties.Resources.resources
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.csproj.GenerateResource.cache
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.exe
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.pdb
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.Form2.resources
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.Main.resources
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.Form3.resources
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.Form4.resources
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.ProdCard.resources
+C:\Users\yonas\source\repos\lab2\obj\Debug\lab2.Form5.resources
